@@ -3,6 +3,6 @@
 I hope you like my first project on GitHub!
 
 It's an simple ASIC image to text converter made with python.
-Download the python scrypt(and the icon) from the repo to try the converter
+Download the python scrypt(and the icon) from the repo to use it
 
 Credits to https://github.com/RameshAditya/asciify for the image converting part
